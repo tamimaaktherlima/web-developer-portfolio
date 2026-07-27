@@ -303,6 +303,6 @@ footer textarea {
 }
 
 /* Tablet Screen or Medium Devices media query */
-@media screen and (min-width : 576px) and (max-width: 990px) {
+/* @media screen and (min-width : 576px) and (max-width: 990px) {
     
-}
+} */
